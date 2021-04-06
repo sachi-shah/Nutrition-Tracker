@@ -1,0 +1,10 @@
+api - prog that req some input and always give output
+node JS - to get runtime
+MongoDB server/ compass - to interact
+insomnia -  to test api
+express - package to handle request and send reponses
+mongoose - connect nodejs to mongodb
+npm init - to create package.json
+Package.json - consists info about packages
+package-lock.json - current package version
+nodemon -  to run again and again
